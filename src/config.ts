@@ -1,78 +1,48 @@
 export const SITE = {
-    website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
-    title: "Simple Portfolio",
+    website: "https://JonAnderPerez.github.io", // replace this with your deployed domain
+    title: "Jon Ander Pérez Portfolio",
     description: "A simple but beautiful portfolio created with Astro",
-    tags: ["portfolio", "Resume cv", "Astro"],
+    tags: ["portfolio", "cv", "Astro"],
     ogImage: "/og-image.webp",
     logo: "logo",
-    logoText: "SPortfolio",
-    lang: "en",
+    logoText: "Jon Ander Pérez",
+    lang: "es",
     favicon: "/favicon.png",
-    repository: "https://github.com/vito8916/simple-portfolio.git",
-    author: "Victor Alvarado",
-    profile: "https://victoralvarado.dev/",
+    repository: "https://github.com/JonAnderPerez/JonAnderPerez.github.io.git",
+    author: "Jon Ander Pérez",
+    profile: "https://JonAnderPerez.github.io",
 }
 
 export const ME = {
-    name: "John Doe",
-    profession: "Software Engineer | Full Stack Developer",
+    name: "Jon Ander Pérez",
+    profession: "Responsable iOS | Analista Programador",
     profileImage: "pp.png",
     profileFacts: [
         {
-            value: 10,
-            description: "Years of Experience"
-        },
-        {
             value: 5,
-            description: "Completed Projects"
+            description: "Años de experiencia"
         },
         {
-            value: 4,
-            description: "Satisfied Clients"
+            value: 6,
+            description: "Proyectos Profesionales"
+        },
+        {
+            value: 0,
+            description: "Proyectos Personales"
         }
     ],
     contactInfo: {
-        email: "vicbox.dev@vicbox.dev",
-        linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
-        resumeDoc: "resume.pdf",
+        email: "jonan.trabajo@gmail.com",
+        linkedin: "https://www.linkedin.com/in/jonanderperezgarcia",
+        resumeDoc: "cv.pdf",
     },
-    aboutMe: "I am a software engineer with a passion for web development. I have experience in building web " + "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " + "sharing knowledge with others.",
+    aboutMe: "En 2017 decidí realizar un grado superior de desarrollo de aplicaciones multiplataforma ya que desde que aparecieron los smartphones me picaba la curiosidad de cómo se creaban las aplicaciones que usaba. " + "Desde el primer momento vi que esto es lo que me gustaba. " + "La sensación de solucionar un problema con el que llevas horas, o cuando ejecutas tu primera aplicación... " + "¡Esto es lo mío!",
 }
 
 export const SOCIALS = [
     {
-        name: "Twitter",
-        url: "https://twitter.com/vicbox.dev",
-        icon: "twitter-x-fill",
-        show: true
-    },
-    {
-        name: "Facebook",
-        url: "https://www.facebook.com/vicbox.dev",
-        icon: "facebook-fill",
-        show: false
-    },
-    {
-        name: "Instagram",
-        url: "https://www.instagram.com/vicbox.dev",
-        icon: "instagram-fill",
-        show: true
-    },
-    {
-        name: "Youtube",
-        url: "https://www.youtube.com/vicbox.dev",
-        icon: "youtube-fill",
-        show: true
-    },
-    {
-        name: "TikTok",
-        url: "https://tiktok.com/vicbox.dev",
-        icon: "tik-fill",
-        show: false
-    },
-    {
         name: "GitHub",
-        url: "https://github.com/vicbox.dev",
+        url: "https://github.com/JonAnderPerez",
         icon: "github-fill",
         show: true
     }

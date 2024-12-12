@@ -44,31 +44,18 @@ interface WorkExperience {
  */
 const workExperience:WorkExperience[] = [
     {
-        title: "Frontend Developer",
-        startDate: "2020-03-10",
-        company: "Google Inc",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NextJs, and Tailwind CSS.",
+        title: "Responsable iOS | Analista Programador",
+        startDate: "2019-06-06",
+        company: "Deusto SEIDOR",
+        location: "Vitoria - Gasteiz",
+        description: "Desarrollo en tecnologias mobile con Swift, Java y Dart.",
         goals: [
-            "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-            "Worked with the team to develop and maintain web applications using React, NodeJs, and MongoDB.",
-            "Created and maintained web applications using React, NodeJs, and MongoDB.",
+            "Desarrollo de aplicaciones de control de acceso seguras con tecnologia NFC, Bluetooth y Criptografia de forma Nativa.",
+            "Migraciónes y desarrollo de apps a Flutter para un codigo conjunto y escalable.",
+            "Analisis de codigo y valoración de proyectos.",
+            "Tambien desarrollo de apps J2EE y webs para empresas publicas vascas.",
         ],
         currentJob: true,
-    },
-    {
-        title: "Software Engineer",
-        startDate: "2018-03-10",
-        endDate: "2020-03-10",
-        company: "Company Name",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-        goals: [
-            "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-            "Worked with the team to develop and maintain web applications using React, NodeJs, and MongoDB.",
-            "Created and maintained web applications using React, NodeJs, and MongoDB.",
-        ],
-        currentJob: false,
     },
 ];
 export default workExperience;
