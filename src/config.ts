@@ -1,7 +1,7 @@
 export const SITE = {
     website: "https://JonAnderPerez.github.io", // replace this with your deployed domain
     title: "Jon Ander Pérez Portfolio",
-    description: "A simple but beautiful portfolio created with Astro",
+    description: "Portafolio de Jon Ander Pérez, Responsable iOS | Analista Programador",
     tags: ["portfolio", "cv", "Astro"],
     ogImage: "/og-image.webp",
     logo: "logo",
