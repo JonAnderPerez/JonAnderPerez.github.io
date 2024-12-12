@@ -7,7 +7,7 @@ interface HardSkill {
 const hardSkills: HardSkill[] = [
   {
     name: "iOS",
-    description: "La tecnologia en la que quiere expecializarme, desarrollo con Swift y SwiftUI, pero tambien con Objective-C y UIKit",
+    description: "La tecnologia en la que quiero expecializarme, desarrollo con Swift y SwiftUI, pero tambien con Objective-C y UIKit",
     icon: "apple"
   },
   {
