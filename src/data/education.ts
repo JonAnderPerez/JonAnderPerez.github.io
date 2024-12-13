@@ -33,7 +33,7 @@ const  education: Education[] = [
         endDate: "06-01-2017",
         school: "Ciudad Jardín",
         location: "Vitoria - Gasteiz",
-        description: "Inicio en el funcionamiento de sistemas informáticos y redes.",
+        description: "Conocimiento adquirido en el funcionamiento de sistemas informáticos y redes.",
         currentUni: false,
     },
 ];

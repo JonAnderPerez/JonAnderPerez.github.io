@@ -1,5 +1,5 @@
 export const SITE = {
-    website: "https://JonAnderPerez.github.io", // replace this with your deployed domain
+    website: "https://JonAnderPerez.github.io",
     title: "Jon Ander Pérez Portfolio",
     description: "Portafolio de Jon Ander Pérez, Responsable iOS | Analista Programador",
     tags: ["portfolio", "cv", "Astro"],
@@ -27,7 +27,7 @@ export const ME = {
             description: "Proyectos Profesionales"
         },
         {
-            value: 0,
+            value: 1,
             description: "Proyectos Personales"
         }
     ],
